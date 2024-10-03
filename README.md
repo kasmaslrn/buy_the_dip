@@ -19,8 +19,6 @@ This project leverages several Python libraries and technologies to implement th
 
 **Python**: The primary programming language used for implementing the strategy and conducting analysis.
 
-**Pandas**: A powerful data manipulation library that simplifies handling and analysing time series data.
-
 **NumPy**: A library for numerical operations, used for calculations involving arrays and mathematical functions.
 
 **Matplotlib**: A plotting library used for visualising the results and performance metrics through charts and graphs.
