@@ -1,4 +1,4 @@
-# Project Overview: Backtesting a "Buy the Dip" Strategy
+# Backtesting a "Buy the Dip" Strategy
 
 This project focuses on backtesting a "Buy the Dip" trading strategy across multiple financial indices. The goal is to assess how this strategy performs compared to a benchmark over a specified time period.
 
